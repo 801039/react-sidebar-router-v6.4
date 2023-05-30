@@ -12,7 +12,7 @@ import Products from "./routes/Products";
 import Home from "./routes/Home";
 import Reports from "./routes/Reports";
 import Navbar from "./components/Navbar";
-import "./App.css";
+import "./App.css"; 
 
 const AppLayout = () => (
   <>
